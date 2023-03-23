@@ -1,0 +1,44 @@
+---
+firstName: Hanna
+lastName: Motorna
+age: 29
+email: fishcatairplane@gmail.com
+marriage: true
+address:
+  street: 123 Random St
+  city: Kyiv
+  state: Kyiv
+  zip: '12345'
+  coordinates:
+    lan:
+    lat:
+phoneNumbers:
+  home: 80937643617
+  cell: "+380687643617"
+hobbies:
+- baking
+- cats
+- movies
+schedule:
+  Mon:
+    startTime: 9:00am
+    endTime: 23:00am
+  Tue:
+    startTime: 9:00am
+    endTime: 23:00am
+  Wed:
+    startTime: 9:00am
+    endTime: 23:00am
+  Thu:
+    startTime: 9:00am
+    endTime: 23:00am
+  Fri:
+    startTime: 9:00am
+    endTime: 23:00am
+friends:
+- firstName: Ivan
+  secondName: Ivanov
+  age: 30
+- firstName: Petro
+  secondName: Sidorov
+  age: 34
