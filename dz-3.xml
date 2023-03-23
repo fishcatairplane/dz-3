@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<root>
+  <firstName>Hanna</firstName>
+  <lastName>Motorna</lastName>
+  <age>29</age>
+  <email>fishcatairplane@gmail.com</email>
+  <marriage>true</marriage>
+  <address>
+    <street>123 Random St</street>
+    <city>Kyiv</city>
+    <state>Kyiv</state>
+    <zip>12345</zip>
+    <coordinates>
+      <lan/>
+      <lat/>
+    </coordinates>
+  </address>
+  <phoneNumbers>
+    <home>80937643617</home>
+    <cell>+380687643617</cell>
+  </phoneNumbers>
+  <hobbies>baking</hobbies>
+  <hobbies>cats</hobbies>
+  <hobbies>movies</hobbies>
+  <schedule>
+    <Mon>
+      <startTime>9:00am</startTime>
+      <endTime>23:00am</endTime>
+    </Mon>
+    <Tue>
+      <startTime>9:00am</startTime>
+      <endTime>23:00am</endTime>
+    </Tue>
+    <Wed>
+      <startTime>9:00am</startTime>
+      <endTime>23:00am</endTime>
+    </Wed>
+    <Thu>
+      <startTime>9:00am</startTime>
+      <endTime>23:00am</endTime>
+    </Thu>
+    <Fri>
+      <startTime>9:00am</startTime>
+      <endTime>23:00am</endTime>
+    </Fri>
+  </schedule>
+  <friends>
+    <firstName>Ivan</firstName>
+    <secondName>Ivanov</secondName>
+    <age>30</age>
+  </friends>
+  <friends>
+    <firstName>Petro</firstName>
+    <secondName>Sidorov</secondName>
+    <age>34</age>
+  </friends>
+</root>
